@@ -73,4 +73,4 @@ app.delete('/livros/:id', (req, res) => {
 const PORT = 3000;
 app.listen(PORT, () => {
     console.log(`Servidor rodando na porta ${PORT} (http://localhost:${PORT})`);
-});
+});git pull origin main --allow-unrelated-histories
